@@ -1,0 +1,63 @@
+.authentication-log {
+  background-color: #aaaaaa;
+  padding: 175px;
+}
+
+.authentication-reg {
+  background-color: #aaaaaa;
+  padding: 150px;
+}
+
+.autentication-form {
+  border-color: black;
+  border-radius: 10px;
+  width: 400px;
+}
+
+.card {
+  text-align: center;
+  box-shadow: 0 0 10px grey;
+  border-radius: 0 !important;
+}
+
+.primary-button {
+  background-color: #2e2e2e !important;
+  height: 40px !important;
+  width: 100% !important;
+  color: white !important;
+  font-size: 16px !important;
+  border-radius: 10px !important;
+}
+
+.primary-button:hover {
+  background-color: #979797 !important;
+}
+
+.anchor {
+  color: black !important;
+  text-decoration: underline;
+  font-size: 16px !important;
+
+}
+
+.dropd {
+  padding: 10px;
+}
+
+.dropd .log-stu {
+  margin: 20px;
+}
+
+.dropd .log-stu:hover {
+  color: white;
+  background-color: #595959;
+}
+
+.dropd .log-lec {
+  margin: 20px;
+}
+
+.dropd .log-lec:hover {
+  color: white;
+  background-color: #595959;
+}
